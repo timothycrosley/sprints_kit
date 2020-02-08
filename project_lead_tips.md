@@ -16,4 +16,4 @@ Steps you can take before the project day:
 		* Small features
 		* DevOps and testing infrastructure
 		* Graphic design
-- Avoid any urge you may be have to fix all the low-haning fruit and "clean-up" your repository for new contributors. This clean up is generally create the best kind of tasks for new contributors!
+- Avoid any urge you may be have to fix all the low-hanging fruit and "clean-up" your repository for new contributors. This clean up is generally create the best kind of tasks for new contributors!
