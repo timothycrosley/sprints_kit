@@ -1,0 +1,72 @@
+Dear Sprint Project Leads,
+
+A huge thank you to all of you for acting as project leads for the upcoming
+Sprints!
+Don't worry about doing any preparation prior to the sprints, your presence
+at the Sprints alone is
+crucial to creating a productive and welcoming environment for new
+contributors.
+And we hope, will help improve the long term health and vibrancy of your
+project and related community.
+
+If you do decide you want to take a few moments before the sprints to
+organize your projects,
+here are a few optional recommendations that may help to streamline your
+sprint and lead
+to mutually beneficial contributions.
+
+   - Double check the accuracy of our entry for your project on the PyCascade's
+   Sprints website <https://2020.pycascades.com/sprints/>.
+   - Ensure you have an up-to-date contributing guide that documents the
+   intended flow and rules behind new contributions
+   - Refresh or create a development environment guide to document how to
+   get a presumed new computer to the point where it can run the code locally,
+   including the full test suite.
+      - *Extra Points:* Customize the instructions for the three most
+      common Operating environments (Windows/Mac/Linux). This work will pay
+      dividends as the odds are that a developer will be using a different
+      OS then you do
+      <https://insights.stackoverflow.com/survey/2019#technology-_-developers-primary-operating-systems>
+      .
+   - Often the contributing guide and the development guide are in one
+   document. This setup is okay! As long as both sets of instructions are
+   discoverable by new users.
+   - Create or update a growth guide. Layout how contributors can
+   "level-up" within your project. What does it take to become a core
+   contributor? A co-maintainer?
+      - After all, while one-off contributions can be fun and moderately
+      useful, nothing beats adding a new consistent contributor.
+   - Ensure an online chat system, such as gitter or slack, is available
+   online so contributors can ask questions in real-time during and *after*
+   the sprints.
+   - Ensure there are issues marked with the label "good first issue" or
+   the equivalent in your issue tracker.
+      - *Extra Points*: Multiple kinds of issues help to ensure
+      contributions can be productive independent of their background, skill
+      level, or skill type.
+         - Documentation
+         - Small bugs
+         - Small features
+         - DevOps and testing infrastructure
+         - Graphic design
+      - Avoid any urge you may have to fix all the low-hanging fruit and
+   "clean-up" your repository for new contributors. This clean up is generally
+   the best kind of tasks for new contributors!
+   - Prepare a call to action to leave your new contributors with, to help
+   them know they can come back and contribute more.
+   - Examples:
+         - Thanks for sprinting on PROJECT_NAME! I lead an informal coffee
+         hack day every month at a local Coffee shop. I'd love to see
+you at the
+         next meeting!
+         - You did great work on updating our test suite to the latest
+         version of pytest during the Sprint! If you want to keep
+working on the
+         project, a great next step would be to make the tests run in parallel.
+
+I hope you find these tips helpful! Feel free to share any other
+suggestions you may have.
+
+Thanks again to all of you, and happy sprinting!
+
+~Timothy
